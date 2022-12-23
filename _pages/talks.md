@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-***IMSI Remote Sensing for Climate Analysis Workshop:*** "Reconstructing surface mesoscale ocean dynamics from sparse satellite observations with deep learning" *(poster)*
+***IMSI Remote Sensing for Climate Analysis Workshop:*** "Reconstructing surface mesoscale ocean dynamics from sparse satellite observations with deep learning" *(invited talk)*
 
 November 2022, Virtual.
 [recording](https://www.imsi.institute/activities/remote-sensing-for-climate-analysis/)

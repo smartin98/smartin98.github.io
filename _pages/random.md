@@ -11,8 +11,8 @@ In a past life I played fiddle in a folk band, you can check out our music [here
 
 ![northern company](/images/nc.jpg)
 
-## What I'm listening to:
+## Album of the month:
+### January 2023
+**[The Overload](https://shop.yardactors.com/*/Music/The-Overload-CD/75771V90000)** by Yard Act
+### December 2022
 **[Elllegy](https://theolllam.bandcamp.com/album/elllegy)** by The Olllam
-
-## What I'm reading:
-**[How to do nothing: resisting the attention economy](https://www.goodreads.com/en/book/show/42771901-how-to-do-nothing)** by Jenny Odell

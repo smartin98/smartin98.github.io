@@ -1,5 +1,7 @@
 ---
 permalink: /
+header:
+  overlay_image: "/images/alps.jpg"
 title: ""
 excerpt: "About me"
 author_profile: true

@@ -18,6 +18,7 @@ Welcome to my website! Have a look around to find out more about the type of wor
 
 ***Updates:***
 
+* **April 2023:** Successfully defended my masters, see [here](https://drive.google.com/file/d/1dElopCP2_2fv3Fk-bUwskbBnQ8C7HufK/view?usp=sharing) for a recording of my presentation, titled 'Reconstructing surface mesoscale oceandynamics from sparse satellite observations with deep learning'.
 * **December 2022:** Submitted my 1st [paper](https://doi.org/10.31223/X50Q0N) of grad school! 🎉 With [Georgy Manucharyan](https://deep.ocean.washington.edu/) and [Patrice Klein](https://www.gps.caltech.edu/people/jean-patrice-m-patrice-klein), we present a new deep learning method for more accurate sea surface height mapping by combining satellite altimetry and sea surface temperature observations.
 * **December 2022:** Completed 1 quarter as a graduate student TA for the class: *OCEAN 285: Physics across oceanography*
 * **November 2022:** Gave an invited talk at the IMSI Remote Sensing for Climate Analysis [workshop](https://www.imsi.institute/activities/remote-sensing-for-climate-analysis/) online.

@@ -4,6 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+***UW Physical Oceanography Seminar:*** "Reconstructing surface mesoscale ocean dynamics from sparse satellite observations with deep learning"
+
+April 2023, Seattle, WA, USA.
+
 ***IMSI Remote Sensing for Climate Analysis Workshop:*** "Reconstructing surface mesoscale ocean dynamics from sparse satellite observations with deep learning" *(invited talk)*
 
 November 2022, Virtual.

@@ -7,7 +7,7 @@ author_profile: true
 ## Deep learning for more accurate sea surface height mapping 
 *2021-present, with [Georgy Manucharyan](https://deep.ocean.washington.edu/) & [Patrice Klein](https://www.gps.caltech.edu/people/jean-patrice-m-patrice-klein)*
 
-*[Pre-print](https://doi.org/10.31223/X50Q0N)* 
+*[Paper](https://doi.org/10.1029/2022MS003589)* 
 
 ![neural network](/images/ConvLSTM_SSH-SST.jpg)
 

@@ -17,7 +17,7 @@ Motivated by [earlier work](https://doi.org/10.1029/2019MS001965) showing that a
 
 A deep learning approach allows us to utilise co-located observations of sea surface temperature (SST, a quantity with a close dynamical relationship to SSH) to improve the SSH mapping. Using SST observations to improve SSH mapping has long been [proposed]( https://doi.org/10.1029/2006GL027801), but is challenging to achieve in a hand-coded algorithm, unlike when using a deep learning approach.
 
-Our [pre-print](https://doi.org/10.31223/X50Q0N) (submitted to JAMES in Dec. 2022) presents our method and demonstrates that it can improve both the accuracy and effective resolution of gridded SSH maps in the Gulf Stream Extension. We're now working on scaling up and refining our method to produce an improved global SSH product.
+Our [paper](https://doi.org/10.31223/X50Q0N) presents our method and demonstrates that it can improve both the accuracy and effective resolution of gridded SSH maps in the Gulf Stream Extension. We're now working on scaling up and refining our method to produce an improved global SSH product.
 
 
 ## Tidal circularisation of binary stars 

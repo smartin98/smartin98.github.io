@@ -11,7 +11,7 @@ In a past life I played fiddle in a folk band, you can check out our music [here
 
 ![northern company](/images/nc.jpg)
 
-## Album of the month:
+<!-- ## Album of the month:
 I really, really like listening to music. So here's my attempt to keep track of what catches my ear over time and why (aside from it being pushed at me by the all-seeing Spotify algorithm). We'll see how long I keep this up...
 ### February 2023
 **[Cacti](https://billynomates.bandcamp.com/album/cacti)** by Billy Nomates \
@@ -27,4 +27,4 @@ Apparently this is 'post-punk', all I know is it's a really unique sound. The fa
 **[Elllegy](https://theolllam.bandcamp.com/album/elllegy)** by The Olllam \
 Immaculately produced Irish neo-trad (very hard to define the genre for this one!) from my all-time favourite band. Listen out for the irregular time signatures in many of the tracks; I've never heard anyone else make music in 7-time sound so natural and so groovy... having Joe Dart (also of Vulfpeck) on bass certainly helps. \
 *If you listen to 1 track, make it:* **[lllow the sun](https://open.spotify.com/track/5HPUE1g45hcM35dc3zmJFi?si=a4eedd385af841b2)** \
-*Track I listen to on repeat:* **[a grey eye lllooks back](https://open.spotify.com/track/3VW50IRqOMPoy9vVKjEYoc?si=108eab1bbe69495c)**
+*Track I listen to on repeat:* **[a grey eye lllooks back](https://open.spotify.com/track/3VW50IRqOMPoy9vVKjEYoc?si=108eab1bbe69495c)** -->

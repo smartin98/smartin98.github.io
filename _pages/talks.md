@@ -4,6 +4,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+***Eddy Energy Climate Process Team Meeting:*** "‘Deep learning for improved mesoscale surface geostrophic current mapping from
+satellite altimetry and SST observation" *(talk)*
+
+May 2023, Woods Hole, MA, USA.
+
 ***UW Physical Oceanography Seminar:*** "Reconstructing surface mesoscale ocean dynamics from sparse satellite observations with deep learning"
 
 April 2023, Seattle, WA, USA.

@@ -4,8 +4,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-***Eddy Energy Climate Process Team Meeting:*** "‘Deep learning for improved mesoscale surface geostrophic current mapping from
-satellite altimetry and SST observation" *(talk)*
+***Eddy Energy Climate Process Team Meeting:*** "Deep learning for improved mesoscale surface geostrophic current mapping from
+satellite altimetry and SST observations" *(talk)*
 
 May 2023, Woods Hole, MA, USA.
 

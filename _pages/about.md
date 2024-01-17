@@ -18,6 +18,7 @@ Welcome to my website! Have a look around to find out more about the type of wor
 
 ***Updates:***
 
+* **January 2024** Submitted my 2nd [paper](https://doi.org/10.31223/X5W676) of grad school: we developed new state-of-the-art global SSH maps using deep learning and show that they reveal strong, seasonal eddy interactions that transfer energy upscale and could help drive the seasonal cycle of eddy kinetic energy in the subtropical ocean.
 * **May 2023:** Our [paper](https://doi.org/10.1029/2022MS003589) on mapping SSH from satellite altimetry and SST observations in the Gulf Stream was accepted in JAMES.
 * **April 2023:** Defended my masters, see [here](https://drive.google.com/file/d/1dElopCP2_2fv3Fk-bUwskbBnQ8C7HufK/view?usp=sharing) for a recording of my presentation, titled 'Reconstructing surface mesoscale ocean dynamics from sparse satellite observations with deep learning'.
 * **December 2022:** Submitted my 1st [paper](https://doi.org/10.31223/X50Q0N) of grad school! 🎉 With [Georgy Manucharyan](https://deep.ocean.washington.edu/) and [Patrice Klein](https://www.gps.caltech.edu/people/jean-patrice-m-patrice-klein), we present a new deep learning method for more accurate sea surface height mapping by combining satellite altimetry and sea surface temperature observations.

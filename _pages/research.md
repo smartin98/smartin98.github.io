@@ -7,10 +7,10 @@ author_profile: true
 ## Deep learning for more accurate sea surface height mapping 
 *2021-present, with [Georgy Manucharyan](https://deep.ocean.washington.edu/) & [Patrice Klein](https://www.gps.caltech.edu/people/jean-patrice-m-patrice-klein)*
 
-*[Global mapping pre-print](https://doi.org/10.31223/X5W676)*
-*[Gulf Stream roof-of-concept paper](https://doi.org/10.1029/2022MS003589)* 
+*[Global mapping GRL paper](https://doi.org/10.1029/2024GL110059)*
+*[Gulf Stream proof-of-concept JAMES paper](https://doi.org/10.1029/2022MS003589)* 
 
-![neural network](/images/ConvLSTM_SSH-SST.jpg)
+![neural network](/images/figure1.png)
 
 Gridded sea surface height (SSH) maps are widely used in oceanography for estimating surface ocean currents. However, SSH is typically only measured along narrow, widely-spaced tracks by satellite-borne nadir radar altimeters. Producing a gridded SSH product therefore requires significant spatiotemporal interpolation, which has traditionally been done using optimal interpolation (as in the widely-used [DUACS](https://duacs.cls.fr/) product). However, in regions with energetic mesoscale ocean turbulence the optimal interpolation method tends to smooth out the 2D SSH signal in both space and time. 
 
@@ -24,6 +24,8 @@ Our [paper](https://doi.org/10.31223/X50Q0N) presents our method and demonstrate
 *2023-present, with [Georgy Manucharyan](https://deep.ocean.washington.edu/) & [Patrice Klein](https://www.gps.caltech.edu/people/jean-patrice-m-patrice-klein)*
 
 *[Global mapping pre-print](https://doi.org/10.31223/X5W676)*
+
+![cascade](/images/ke_flux.png)
 
 Mesoscale eddies (ocean vortices ~100-1000km across) account for the majority of the ocean's kinetic energy and strongly impact global climate through their strong lateral transport of heat, salt, and other tracers. Submesoscale turbulence (eddies and filaments ~1-10 km across) is another class of oceanic motions of smaller horizontal scale which have their own distinct dynamics that can induce strong vertical velocities with significant net vertical transports of heat, carbon, and nutrients. Since submesoscale turbulence is as yet unresolved in global climate models, quantifying its impact on the larger-scale circulation is crucial for understanding the ocean's role in global climate. Submesoscale processes can act as both a source and sink for mesoscale kinetic energy and submesoscale dynamics is strongly seasonal, mesoscale-submesoscale scale interactions are thus a rich and complex area of study. In my research, I aim to better characterise these interactions using satellite observations.
 

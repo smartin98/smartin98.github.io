@@ -18,6 +18,8 @@ Welcome to my website! Have a look around to find out more about the type of wor
 
 ***Updates:***
 
+* **September 2024** Paper on global SSH mapping using AI published in GRL 🎉 [paper](https://doi.org/10.1029/2024GL110059)
+* **May 2024** Passed my General Exam 🎓
 * **January 2024** Submitted my 2nd [paper](https://doi.org/10.31223/X5W676) of grad school: we developed new state-of-the-art global SSH maps using deep learning and show that they reveal strong, seasonal eddy interactions that transfer energy upscale and could help drive the seasonal cycle of eddy kinetic energy in the subtropical ocean.
 * **May 2023:** Our [paper](https://doi.org/10.1029/2022MS003589) on mapping SSH from satellite altimetry and SST observations in the Gulf Stream was accepted in JAMES.
 * **April 2023:** Defended my masters, see [here](https://drive.google.com/file/d/1dElopCP2_2fv3Fk-bUwskbBnQ8C7HufK/view?usp=sharing) for a recording of my presentation, titled 'Reconstructing surface mesoscale ocean dynamics from sparse satellite observations with deep learning'.
